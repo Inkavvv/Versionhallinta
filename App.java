@@ -8,6 +8,7 @@ public class App {
         int number1;
         int number2;
         int tulo;
+        //määritetäään arvot numeroille
         number1 = 6;
         number2 = 4;
         System.out.println("Luku1 on " + number1);
