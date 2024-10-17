@@ -14,6 +14,7 @@ public class App {
         System.out.println("Luku1 on " + number1);
         System.out.println("Luku2 on " + number2);
         tulo = number1 * number2;
+        //tulostetaan kertolaskun tulos
         System.out.println("Kertolaskun tulos on " + tulo);
     
 
